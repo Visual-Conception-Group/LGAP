@@ -1,4 +1,4 @@
-## Language Guided Adversarial Purification
+## [Language Guided Adversarial Purification](https://arxiv.org/abs/2309.10348v1)
                      
 The attacks can be evaluated using
 - preprocessor_blind.py
