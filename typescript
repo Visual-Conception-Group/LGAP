@@ -1,0 +1,23 @@
+Script started on 2023-09-01 03:45:05+05:30 [TERM="screen-256color" TTY="/dev/pts/85" COLUMNS="193" LINES="43"]
+(base) [01;32mhimanshus@dgx1[00m:[01;34m~/experiments/repos/stable-diffusion[00m$ ls
+ LICENSE                             c_adv.pkl                         diffusion_trained_clean_adv_gen.pkl     plot_cka.py
+ README.md                           calculate_robust_acc_bpda.py      display_images.ipynb                    preprocessor_blind.py
+ Stable_Diffusion_v1_Model_Card.md   cka.py                            end_to_end.py                           resnet50_stl10.pth
+ Untitled.ipynb                      cka2.py                           end_to_end_generation.ipynb             resnet50_stl10_trained_on_diffusion_images.pth
+ [0m[01;34m__pycache__[0m                         clean_adv.pkl                     environment.yaml                        robust_acc_bpda_eot.py
+ a.npy                               clean_adv_result.pkl              feature_similarity.ipynb                [01;34mscripts[0m
+ [01;34maa[0m                                  clean_generated.pkl               feature_similarity_2.ipynb              setup.py
+ aa_log.txt                          clean_generated_results.pkl      'generate diffusion images copy.ipynb'   [01;34msrc[0m
+ [01;34massets[0m                              clf_pgd.py                       'generate diffusion images.ipynb'        test.ipynb
+ attack.ipynb                        [01;34mconfigs[0m                           [01;34mlatent_diffusion.egg-info[0m               train.ipynb
+ [01;34mauto_attack[0m                         custom_attack.py                  [01;34mldm[0m                                     typescript
+ [01;34mblip[0m                                custom_pgd.py                     main.py                                 wrn28_10_cifar10_trained_on_diffusion_images.pth
+ bpda_yoon.py                        d.pkl                             [01;34mmodels[0m                                  wrn28_10_cifar10_trained_on_diffusion_images_50.pth
+ bpda_yoon_eot.py                    d_512.pkl                         notebook_helpers.py                     wrn28_10_cifar10_trained_on_diffusion_images_only.pth
+ bpdaattack.py                       d_adv.pkl                         op_c.npy                                wrn28_10_cifar10_trained_on_diffusion_images_only_cpu.pth
+ c.pkl                               [01;34mdata[0m                              [01;35moutput.png[0m
+ c_512.pkl                           diffusion_trained_clean_adv.pkl   [01;34moutputs[0m
+(base) [01;32mhimanshus@dgx1[00m:[01;34m~/experiments/repos/stable-diffusion[00m$ exit
+exit
+
+Script done on 2023-09-01 03:46:27+05:30 [COMMAND_EXIT_CODE="0"]
